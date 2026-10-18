@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/gem.svg" width="130" alt="" />
+<img src="gem.svg" width="130" alt="" />
 
 ### Segurança, aprendizado e construção de sistemas mais seguros.
 

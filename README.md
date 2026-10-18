@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alves-monica/alves-monica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/gem.svg" width="130" alt="" />
 
-Here are some ideas to get you started:
+### Segurança, aprendizado e construção de sistemas mais seguros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Defensive Security` · `Cloud Security` · `Web Security` · `DevSecOps`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B0001E&height=3" width="100%" />
+
+## Sobre este repositório
+
+Este é meu espaço de estudos e experimentos em **Cibersegurança**.
+
+Como desenvolvedora, meu principal interesse está em entender como posso **proteger as aplicações e sistemas que construo**, identificando riscos, vulnerabilidades e más configurações antes que se tornem problemas.
+
+Ainda estou em desenvolvimento nessa área e este repositório acompanha justamente esse processo: **estudar, testar, documentar e evoluir**.
+
+> Meu objetivo não é apenas saber como um sistema pode ser explorado,  
+> mas principalmente entender como ele pode ser **protegido**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B0001E&height=3" width="100%" />
+
+## O que estou estudando
+
+- Web Security
+- Cloud Security
+- Segurança de APIs
+- Autenticação e autorização
+- Gestão de identidade e acesso
+- Segurança de aplicações
+- Network Security
+- DevSecOps
+- Hardening
+- Vulnerabilidades e mitigação
+- Monitoramento e detecção
+- Privacidade e proteção de dados
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B0001E&height=3" width="100%" />
+
+## Minha abordagem
+
+```text
+CONSTRUIR
+    ↓
+ENTENDER OS RISCOS
+    ↓
+IDENTIFICAR VULNERABILIDADES
+    ↓
+MITIGAR
+    ↓
+MONITORAR
+    ↓
+MELHORAR
+```
+
+Tenho interesse especial na interseção entre **desenvolvimento e segurança**.
+
+Quero levar segurança para mais perto do processo de desenvolvimento, em vez de tratá-la apenas como uma etapa posterior.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B0001E&height=3" width="100%" />

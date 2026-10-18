@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="150" viewBox="0 0 120 112">
+  <defs>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#FF4D5E" stop-opacity="0.75"/>
+      <stop offset="0.55" stop-color="#C1121F" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#C1121F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- brilho pulsando atrás da joia -->
+  <circle cx="60" cy="58" r="46" fill="url(#glow)">
+    <animate attributeName="r" values="40;52;40" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- facetas -->
+  <polygon points="45,22 75,22 68,40 52,40" fill="#FF6B7A"/>
+  <polygon points="45,22 30,40 52,40" fill="#E63946"/>
+  <polygon points="75,22 90,40 68,40" fill="#C1121F"/>
+  <polygon points="30,40 52,40 60,100" fill="#B0001E"/>
+  <polygon points="52,40 68,40 60,100" fill="#E63946"/>
+  <polygon points="68,40 90,40 60,100" fill="#7A0A18"/>
+
+  <!-- contorno -->
+  <polygon points="45,22 75,22 90,40 60,100 30,40" fill="none" stroke="#FFB3BA" stroke-opacity="0.55" stroke-width="1" stroke-linejoin="round"/>
+  <line x1="30" y1="40" x2="90" y2="40" stroke="#FFB3BA" stroke-opacity="0.4" stroke-width="0.8"/>
+
+  <!-- reflexo varrendo a joia -->
+  <polygon points="48,24 54,24 46,40 40,40" fill="#FFFFFF" opacity="0">
+    <animate attributeName="opacity" values="0;0.65;0" dur="3.2s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- brilhinho -->
+  <g transform="translate(84 24)">
+    <path d="M0,-7 L1.6,-1.6 L7,0 L1.6,1.6 L0,7 L-1.6,1.6 L-7,0 L-1.6,-1.6 Z" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0;1;0" dur="3.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="0.4;1;0.4" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
